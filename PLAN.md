@@ -4,21 +4,16 @@ Kişisel link ve metin takipçisi. Veriler yalnızca tarayıcıda durur, sunucu 
 
 ## Durum
 
-**Şu an:** 1. oturum yarım kaldı.
+**Şu an:** 1. oturum bitti, sırada 2. oturum.
+
+Yayın adresi: `https://bariso1.github.io/digest/`. Bu adres değişmemeli.
 
 Yapıldı:
-- [x] `index.html`, `styles.css`, `TESTLER.md`, `.gitignore` oluşturuldu.
-- [x] Git deposu başlatıldı (`main` dalı), ilk commit atıldı.
-- [x] Sayfa Mac'te yerel sunucuyla denendi.
-- [x] GitHub hesabı `bariso1`, yayın adresi `https://bariso1.github.io/digest/`.
+- [x] 1. oturum: sayfa GitHub Pages'te yayında, iPhone testi kullanıcı tarafından onaylandı.
 - [x] Git kimliği bu depoya özel, noreply adresiyle ayarlandı.
 
 Sırada:
-- [ ] Boş, herkese açık `digest` deposunun GitHub'da açıldığı doğrulanacak.
-- [ ] `digest` deposuna özel fine-grained token: Contents için Read and write. Token sohbete yazılmaz.
-- [ ] GitHub'a yükleme (`git push`).
-- [ ] Settings > Pages'te "Deploy from a branch" (`main`, kök klasör) açılacak.
-- [ ] `TESTLER.md` içindeki 1. oturum listesi iPhone'da denenecek.
+- [ ] 2. oturum: link veya metin ve not ekleme, en yenisi üstte liste.
 
 ## Kapsam
 
